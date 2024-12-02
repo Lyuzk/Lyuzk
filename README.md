@@ -1,6 +1,8 @@
-## Hi there 👋
+## Working on it 
 
-![snake gif](https://github.com/Lyuzk/Lyuzk/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Lyuzk/Lyuzk/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Lyuzk&repo=Lyuzk&theme=react)](https://github.com/Lyuzk/Lyuzk)
+
 <!--
 **Lyuzk/Lyuzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
